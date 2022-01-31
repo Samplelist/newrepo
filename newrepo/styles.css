@@ -1,0 +1,56 @@
+body {
+background-color:#f0f0f0;
+}
+div.sticky{
+    position: sticky;
+    top: 0;
+}
+span{
+    color:crimson ;
+    font-family:serif;
+    font-size: xx-large;
+    margin-left: 20px;
+}
+input{
+    border-radius:8px;
+    background-color: #f0f0f0;
+    height: 40px;
+    border: 1px groove whitesmoke;
+    
+}
+
+a:hover{
+    color: red;
+}
+
+.center{
+    
+    width: 450px;
+   padding-left:20px ;
+
+}
+.margin{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.font{
+    
+    font-family: 'Dancing Script', cursive;
+}
+
+h4{
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: cursive;
+}
+img{
+    border-radius: 15px 15px 0px 0px;
+    
+}
+
+h5{
+    color:black ;
+    font-family: Vernon Adams, Jacques Le Bailly, Botjo Nekoltchev, Ani Petrova;
+    text-align: center;
+     margin-top: 7px;
+}
